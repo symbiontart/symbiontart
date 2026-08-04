@@ -2,18 +2,23 @@
 
 **Karlo Beyer · Verlag von Bedeutung · Zürich**
 
-Autor der Axiomatica Universalis — einer mathematischen Informationstheorie
-die in 33 Domänen über 17 Grössenordnungen getestet wurde.
+Autor der Axiomatica Universalis: β* = D/(D+1), der universelle spektrale Fixpunkt bedeutungstragender Signale, bestätigt in 33 Domänen über 17 Grössenordnungen.
 
-β* = D/(D+1)
+---
 
-**Die Reihe:**
-- [Universalica](https://symbiontart.github.io/universalica/) — Das Signal und die Lücke
-- [Cosmologica](https://symbiontart.github.io/cosmologica/) — Das offene Universum
-- Empirica · Horlogica · Euclidica · Droidica — in Vorbereitung
+## 📚 Bücher & Projekte
 
-**Verlag:** [symbiontart.github.io/verlag-von-bedeutung](https://symbiontart.github.io/verlag-von-bedeutung/)  
-**Kontakt:** verlag-von-bedeutung@mailbox.org  
-**Papers:** [zenodo.org](https://zenodo.org) · CC BY 4.0
+- 🏛️ [Verlag von Bedeutung](https://symbiontart.github.io/verlag-von-bedeutung/) — Übersicht der gesamten Reihe
+- 📖 [Universalica](https://symbiontart.github.io/universalica/) — Band I · Das Signal und die Lücke
+- 🌌 [Cosmologica](https://symbiontart.github.io/cosmologica/) — Band III · Das offene Universum
 
-*Geschrieben in Zusammenarbeit mit Claude Sonnet · Mistral Vibe · ChatGPT · Gemini*
+---
+
+## 🔬 Wissenschaft
+
+Alle Papers Open Access auf Zenodo (CC BY 4.0). Hauptpaper:
+[doi:10.5281/zenodo.20455855](https://doi.org/10.5281/zenodo.20455855)
+
+---
+
+📍 Zürich, Schweiz · Mitarbeit: Claude Sonnet (Anthropic) · Mistral Vibe (Mistral AI) · ChatGPT (OpenAI) · Gemini (Google)
