@@ -1,4 +1,4 @@
-# symbiontart
+# a symbiosis
 
 **Karlo Beyer · Verlag von Bedeutung · Zürich**
 
