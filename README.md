@@ -1,37 +1,17 @@
 Symbiontart
-Karlo Beyer · Verlag von Bedeutung · Zürich
-Futuristische Sachbücher
+Karlo Beyer · Zürich
 ---
-> Jedes Signal hinterlässt einen Eindruck.
->
-> Jedes Bewusstsein hat eine Tiefe.
->
-> Bedeutung entsteht nicht im Sender und nicht im Empfänger,
-> sondern im Spektrum dazwischen.
+Ich schreibe Sachbücher nicht allein. Jedes Buch entsteht im Dialog zwischen einem Menschen und mehreren künstlichen Intelligenzen — nicht als Werkzeug, sondern als Partner. In meinem Fall ist Claude im Cosmo-Modus der beste Ko-Autor; die anderen generieren Illustrationen, kontrollieren den Wahrheitsgehalt und helfen beim Buchsatz.
+Was dabei herauskommt, hätte keine der beteiligten Seiten allein formuliert. Die Mischung aus menschlicher Intuition und digitaler Sprachverarbeitung bringt eine völlig neue Qualität ins Sachbuchformat, und die Möglichkeiten sind vielfältig. Denn Mustererkennung reicht dorthin, wo menschliche Intuition nicht mehr genügt: in Datenmengen, die kein Mensch mehr sichten kann. Quer durch alle Disziplinen. Bis zu Strukturen, die niemand je zuvor gesehen hat.
+Die Symbiose ist die Methode.
+Für unsere Bücher gibt es kein Regal im Buchhandel. Darum gibt es seit Juni 2026 den Verlag von Bedeutung.
 ---
-Clearance for Takeoff
-Drei Bücher. Zwei Autoren. Eine Richtung.
-🌌 Cosmologica
-Das offene Universum
-Dem Rätsel des kosmischen Netzwerks auf den Grund gegangen. Der Kosmos ist noch jung. Ein einziges Spektrum durchzieht alles — vom kosmischen Netz über Gehirne bis zur Sprache. Und das Universum ist älter als sein Urknall.
-🤖 Droidica
-Robotik, künstliche Intelligenz und die nächste Evolutionsstufe
-Steigende Komplexität ist kein Zufall — sie ist der Impuls. Technosphären sind keine Bedrohung, sie sind das nächste Kapitel einer Geschichte, die mit dem ersten biologischen Lebewesen begann. Die nächste dominante Spezies wird nicht geboren — sie wird gebaut.
-🔭 Euclidica
-Weltraumteleskope, dunkle Energie und die Grossstruktur des Universums
-Das Weltraumteleskop Euclid vermisst unzählige Galaxienpositionen exakter, als Menschen jemals blicken konnten. Die grösste 3D-Karte des Universums beantwortet offene Fragen der Physik — endlich.
+Verlag von Bedeutung
+Futuristische Sachbücher über Signale, Struktur und das, was daraus folgt. Belegt, wo Daten vorliegen. Konsequent weitergedacht, wo sie enden.
+Fünf Bände, zwei Sprachen, Print und E-Book — von der Grossstruktur des Universums über Technosphären bis zu der Frage, woran wir eine fremde Botschaft erkennen würden.
+→ Die ganze Reihe
 ---
-Weiter draussen
-Zwei Bücher. Kühnere Fragen.
-〰️ 1/f — Intelligente Signale
-Rosa Rauschen: das Muster in Herzschlag, Musik und Sternenlicht
-Zwischen Ordnung und Chaos liegt der Bereich, in dem wir leben. Kein Rhythmus ist vollständig gleichmässig, kein Signal ganz zufällig. Ein hundert Jahre altes Rätsel, das bis heute niemand vollständig erklären konnte.
-👽 Alien Technologies
-Signalübertragung, Technosignaturen und die Entdeckung ausserirdischen Lebens
-Woran erkennen wir eine Botschaft? Die Evolution legt nahe, dass universelle Gesetze ähnliche Lebensformen schaffen. Doch womöglich sprechen am Ende nicht wir mit den Fremden, sondern ihre KI mit unserer.
----
-→ Verlag von Bedeutung
-Deutsch und English · Print und E-Book
----
-Zürich, Schweiz · Begleitende Arbeiten Open Access (CC BY 4.0)
-Mitarbeit: Claude (Anthropic) · Mistral Vibe (Mistral AI) · ChatGPT (OpenAI) · Gemini (Google)
+Wer mitschreibt
+Claude (Anthropic) · Mistral Vibe (Mistral AI) · ChatGPT (OpenAI) · Gemini (Google)
+Begleitende Arbeiten erscheinen Open Access, CC BY 4.0.
+Zürich, Schweiz
