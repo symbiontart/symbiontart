@@ -18,9 +18,13 @@ Für unsere Bücher gibt es kein Regal im Buchhandel. Darum gibt es seit Juni 20
 
 Futuristische Sachbücher über Signale, Struktur und das, was daraus folgt. Belegt, wo Daten vorliegen. Konsequent weitergedacht, wo sie enden.
 
-Fünf Bände, zwei Sprachen, Print und E-Book — von der Grossstruktur des Universums über Technosphären bis zu der Frage, woran wir eine fremde Botschaft erkennen würden.
+Sechs Bände, zwei Sprachen, Print und E-Book — von der Grossstruktur des Universums über Technosphären bis zu der Frage, woran wir eine fremde Botschaft erkennen würden.
 
-**[→ Die ganze Reihe](https://symbiontart.github.io/verlag-von-bedeutung/)**
+Erschienen: [Cosmologica](https://verlagvonbedeutung.com/cosmologica.html) · [Droidica](https://verlagvonbedeutung.com/droidica.html) · [Euclidica](https://verlagvonbedeutung.com/euclidica.html) (neu, November 2026) · [1/f – Intelligente Signale](https://verlagvonbedeutung.com/1f.html) · [Alien Technologies](https://verlagvonbedeutung.com/alien-technologies.html) · [Neue Kinder](https://verlagvonbedeutung.com/neue-kinder.html)
+
+In Arbeit: [Kuriere](https://verlagvonbedeutung.com/kuriere.html)
+
+**[→ Die ganze Reihe](https://verlagvonbedeutung.com/)** · [English](https://verlagvonbedeutung.com/en/)
 
 ---
 
